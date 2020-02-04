@@ -1,0 +1,21 @@
+.MuiTypography-h5 {
+  font-size: 25px !important;
+  text-align: center;
+}
+.MuiAvatar-root {
+  margin-left: 44%;
+}
+.MuiAvatar-colorDefault {
+  color: black;
+  background-color: moccasin;
+}
+input {
+  font-size: 20px !important;
+}
+
+@media (min-width: 0px) {
+  .MuiContainer-maxWidthXs {
+    max-width: 444px;
+    margin-top: 10%;
+  }
+}
